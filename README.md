@@ -1,2 +1,2 @@
 # mydot
-basic dot file
+basic dot file without any plugin
