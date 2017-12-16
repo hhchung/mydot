@@ -1,0 +1,9 @@
+[user]
+        name = hhchung
+        email = hhchung.cs01@g2.nctu.edu.tw
+[push]
+        default = matching
+[alias]
+        show-graph = log --graph --abbrev-commit --pretty=oneline
+[core]
+        editor = vim            
