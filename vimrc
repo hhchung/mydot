@@ -8,6 +8,9 @@ set incsearch
 set expandtab
 filetype indent on
 colorscheme slate
+" F2 
+noremap  <F2> <C-C>:set invnumber<CR>
+inoremap <F2> <C-O>:set invnumber<CR>
 
 
 "auto load previous position
